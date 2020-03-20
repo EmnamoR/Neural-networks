@@ -1,9 +1,4 @@
 nnet
 .gitignore
 .idea
-.idea/.gitignore
-.idea/Neural-networks.iml
-.idea/inspectionProfiles/profiles_settings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
+__pycache__
